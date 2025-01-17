@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/dasch/Desktop/meetApp/client/src/app/%28dashboard%29/notes/%40NoteList/page.js"],"sourcesContent":["import NoteGrid from '@/components/note/NoteGrid'\r\nimport React from 'react'\r\n\r\nconst NoteGridpage = () => {\r\n  return (\r\n    <>\r\n      <NoteGrid/>\r\n    </>\r\n  )\r\n}\r\n\r\nexport default NoteGridpage"],"names":[],"mappings":";;;;AAAA;AACA;;;;AAEA,MAAM,eAAe;IACnB,qBACE;kBACE,cAAA,8OAAC,qIAAA,CAAA,UAAQ;;;;;;AAGf;uCAEe"}},
+    {"offset": {"line": 26, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

@@ -1,0 +1,29 @@
+{
+  "pages": {
+    "/(dashboard)/meetings/@MeetingList/page": [
+      "static/chunks/_a91c21._.js",
+      "static/chunks/src_app_favicon_ico_mjs_ddfdf0._.js",
+      "static/chunks/node_modules_d8e769._.js",
+      "static/chunks/src_f0f593._.js",
+      "static/chunks/src_app_globals_b80590.css",
+      "static/chunks/src_app_layout_61af54.js",
+      "static/chunks/node_modules_@mui_material_229df5._.js",
+      "static/chunks/node_modules_@mui_system_esm_ac1160._.js",
+      "static/chunks/node_modules_@popperjs_core_lib_b9b8df._.js",
+      "static/chunks/node_modules_react-icons_6ed981._.js",
+      "static/chunks/node_modules_d16edf._.js",
+      "static/chunks/src_eb7f85._.js",
+      "static/chunks/src_app_(dashboard)_layout_c893c3.js",
+      "static/chunks/src_app_(dashboard)_meetings_layout_825d33.js",
+      "static/chunks/src_app_(dashboard)_meetings_layout_81bc82.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_1f56dc._.js",
+      "static/chunks/node_modules_next_dist_compiled_107ce8._.js",
+      "static/chunks/node_modules_next_dist_client_523921._.js",
+      "static/chunks/node_modules_next_dist_4bb10e._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636a._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d0a96d._.js",
+      "static/chunks/_e69f0d._.js",
+      "static/chunks/_d95469._.js"
+    ]
+  }
+}
